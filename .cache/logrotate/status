@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/git/.cache/upstart/unity-settings-daemon.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/hud.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/unity7.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/dbus.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/indicator-session.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/unity-panel-service.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/ssh-agent.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/indicator-power.log" 2016-10-12-20:14:25
+"/home/git/.cache/upstart/gnome-keyring-ssh.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/indicator-sound.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/gpg-agent.log" 2016-10-16-23:24:47
+"/home/git/.cache/upstart/update-notifier-release.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/indicator-keyboard.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_fcitx-qimpanel.1001.crash.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/upstart-event-bridge.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/window-stack-bridge.log" 2016-10-16-17:55:33
+"/home/git/.cache/upstart/im-config.log" 2016-10-16-17:55:33

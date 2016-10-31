@@ -1,0 +1,22 @@
+openConnection: connect: 没有那个文件或目录
+cannot connect to brltty at :0
+upstart: window-stack-bridge main 进程 (2767)已经被HUP 信号杀死
+upstart: bamfdaemon main 进程 (2787)已经被TERM 信号杀死
+upstart: hud main 进程 (2890)已经被HUP 信号杀死
+upstart: unity-settings-daemon main 进程 (2892)已经被HUP 信号杀死
+upstart: gnome-session (Unity) main 进程 (2913)已经被HUP 信号杀死
+upstart: unity-panel-service main 进程 (2918)已经被HUP 信号杀死
+upstart: indicator-messages main 进程 (2946)已经被HUP 信号杀死
+upstart: indicator-bluetooth main 进程 (2947)已经被TERM 信号杀死
+upstart: indicator-power main 进程 (2950)已经被TERM 信号杀死
+upstart: indicator-datetime main 进程 (2954)已经被TERM 信号杀死
+upstart: indicator-keyboard main 进程 (2957)已经被HUP 信号杀死
+upstart: indicator-sound main 进程 (2958)已经被HUP 信号杀死
+upstart: indicator-printers main 进程 (2963)已经被TERM 信号杀死
+upstart: indicator-session main 进程 (2972)已经被TERM 信号杀死
+upstart: indicator-application main 进程 (2986)已经被TERM 信号杀死
+upstart: unity-panel-service-lockscreen main 进程 (3233)已经被HUP 信号杀死
+upstart: indicator-application pre-stop 进程 (3906)已经被TERM 信号杀死
+upstart: gnome-session (Unity) pre-stop 进程 (3907)已经被TERM 信号杀死
+upstart: unity7 main 进程 (2896)以状态 1 结束
+upstart: 从告知的D-Bus总线断开
